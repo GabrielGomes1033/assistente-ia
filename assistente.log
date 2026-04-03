@@ -1,0 +1,28 @@
+2026-04-03 19:50:30,495 - INFO - ✅ Microfone inicializado: <speech_recognition.Microphone object at 0x798746364050>
+2026-04-03 19:50:30,496 - INFO - 🔧 Calibrando microfone...
+2026-04-03 19:50:30,496 - ERROR - ❌ Erro calibração: 'OuvinteVoz' object has no attribute 'microfone'
+2026-04-03 19:54:17,767 - INFO - ✅ Microfone inicializado: <speech_recognition.Microphone object at 0x7666cc34fbc0>
+2026-04-03 19:54:17,767 - INFO - 🔧 Calibrando microfone...
+2026-04-03 19:54:19,871 - INFO - ✅ Calibrado! Threshold: 1.5dB
+2026-04-03 19:54:20,578 - INFO - Assistente iniciada
+2026-04-03 19:54:24,335 - INFO - Assistente interrompida pelo usuário (Ctrl+C)
+2026-04-03 19:54:24,992 - INFO - ✅ Microfone inicializado: <speech_recognition.Microphone object at 0x7fbab1737ce0>
+2026-04-03 19:54:24,993 - INFO - 🔧 Calibrando microfone...
+2026-04-03 19:54:27,104 - INFO - ✅ Calibrado! Threshold: 1.5dB
+2026-04-03 19:54:27,755 - INFO - Assistente iniciada
+2026-04-03 19:55:37,260 - INFO - ✅ Microfone inicializado: <speech_recognition.Microphone object at 0x701576d37ce0>
+2026-04-03 19:55:37,261 - INFO - 🔧 Calibrando microfone...
+2026-04-03 19:55:39,397 - INFO - ✅ Calibrado! Threshold: 1.5dB
+2026-04-03 19:55:39,884 - INFO - Assistente iniciada
+2026-04-03 20:09:21,848 - INFO - ✅ Microfone inicializado: <speech_recognition.Microphone object at 0x72a5d6f37b00>
+2026-04-03 20:09:21,849 - INFO - ✅ Microfone inicializado: <speech_recognition.Microphone object at 0x7c28af53fd70>
+2026-04-03 20:09:21,852 - INFO - 🔧 Calibrando microfone...
+2026-04-03 20:09:21,852 - INFO - 🔧 Calibrando microfone...
+2026-04-03 20:09:24,049 - INFO - ✅ Calibrado! Threshold: 1.5dB
+2026-04-03 20:09:24,082 - INFO - ✅ Calibrado! Threshold: 1.5dB
+2026-04-03 20:09:25,283 - INFO - Assistente iniciada
+2026-04-03 20:09:25,284 - INFO - Assistente iniciada
+2026-04-03 20:09:58,278 - INFO - ✅ Microfone inicializado: <speech_recognition.Microphone object at 0x775c2816c380>
+2026-04-03 20:09:58,278 - INFO - 🔧 Calibrando microfone...
+2026-04-03 20:10:00,395 - INFO - ✅ Calibrado! Threshold: 1.5dB
+2026-04-03 20:10:00,923 - INFO - Assistente iniciada
