@@ -1,18 +1,27 @@
-# MIT License - Uso Educacional Apenas
+**Gabriel Gomes Educational License (GGEL) v1.0**
 
-Copyright (c) 2026 GabrielGomes1033
+Copyright (c) 2026 Gabriel Gomes
 
-Permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia
-deste software e arquivos de documentação associados (o "Software"), para usar
-o Software **somente para fins de estudo, aprendizado e experimentação pessoal**,
-sem restrição, incluindo permissão para copiar, modificar e estudar o Software.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, and modify the Software **for educational and personal learning purposes only**.
 
-É **proibido** usar o Software para fins comerciais, redistribuição pública, 
-ou qualquer atividade que gere lucro ou serviço de terceiros.
+**Restrictions:**
 
-O Software é fornecido "no estado em que se encontra", sem garantia de qualquer tipo,
-explícita ou implícita, incluindo, mas não se limitando a garantias de
-comercialização ou adequação a um propósito específico. Em nenhum caso os
-autores serão responsáveis por qualquer reivindicação, dano ou outra responsabilidade,
-seja em ação de contrato, ato ilícito ou de outra forma, decorrente do Software
-ou do uso ou de outros negócios no Software.
+* Commercial use of the Software is strictly prohibited.
+* The Software may not be sold, sublicensed, or used in any product or service intended for commercial advantage or monetary compensation.
+* Redistribution of the Software is allowed only if this license is included in all copies or substantial portions of the Software.
+
+**Attribution:**
+
+* Credit must be given to the original author (Gabriel Gomes) in any derivative works or redistributions.
+
+**Disclaimer:**
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+**Summary (non-legal):**
+
+* ✅ Pode usar para estudo
+* ✅ Pode modificar
+* ✅ Pode compartilhar com crédito
+* ❌ Não pode usar comercialmente
